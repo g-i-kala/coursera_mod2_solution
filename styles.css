@@ -96,6 +96,11 @@ h2 {
   .content {
     flex-wrap: wrap;
   }
+
+  .box--3 {
+    width: 100%;
+  }
+
 }
 /* mobile less than 768px */
   @media (max-width: 768px) {
